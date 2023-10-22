@@ -8,7 +8,7 @@
 
 ## Datos
 
-Los datos del proyecto vienen de [La competición Kaggle Predicción de CO2 en Ruanda]https://www.kaggle.com/competitions/playground-series-s3e20, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos:
+Los datos del proyecto vienen de [La competición Kaggle Predicción de CO2 en Ruanda](https://www.kaggle.com/competitions/playground-series-s3e20), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos:
 
     !wget -O train.csv https://gitlab.com/fredy.hoyos1/iamireligion/-/raw/a2e8edb223037ba0c74b2aa801e6dce28218f471/train.csv?inline=false
     !wget -O test.csv https://gitlab.com/fredy.hoyos1/iamireligion/-/raw/datos/test.csv?inline=false
@@ -16,4 +16,4 @@ Los datos del proyecto vienen de [La competición Kaggle Predicción de CO2 en R
 
 ## Videos
 
-- [Video primera entrega]https://youtu.be/BQZJxuXdGqU
+- [Video primera entrega](https://youtu.be/BQZJxuXdGqU)
